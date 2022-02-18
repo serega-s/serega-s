@@ -68,6 +68,16 @@ Telegram: @sergei_here
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis">
 
+<br />
+<hr>
+
+<h3>Learning: </h3>
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS">
+
 <br/>
 <br/>
 
