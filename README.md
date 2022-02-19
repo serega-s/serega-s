@@ -1,5 +1,5 @@
 <h1>
-     🤘Hi! My name is Sergei Seliutin.
+     🤘 Hi! My name is Sergei Seliutin.
   </h1>
 <br/>
 🌱 I’m currently learning FullStack Web development
@@ -9,12 +9,14 @@
 <br/>
 <h2>About me:</h2>
 <h4>
-Hey folks! I'm a guy from a village who is going to move forward to becoming a self taught fullstack web developer. I love learning new technologies and practicing them. I have a lot of plans for future. If you are an experienced developer, I will be glad you to become my comrade so that time by time I could ask some questions if I didn't manage to figure out with a big problem.
+Hey folks, welcome to my GitHub repo! I'm a guy from a village who is going to move forward to becoming a self taught fullstack web developer. I love learning new technologies and practicing them. I have a lot of plans for future. If you are an experienced developer, I will be glad you to become my comrade so that time by time I could ask some questions if I wouldn't manage to figure out with a big problem.
 </h4>
 <h3>My Contacts:</h3>
 Telegram: @sergei_here
+
 <br />
 <br />
+<h2>Tech stack:</h2>
 
 <h3>Languages:</h3>
 
@@ -25,7 +27,7 @@ Telegram: @sergei_here
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass">
 
 <br/>
-<br/>
+<hr/>
 
 <!-- ###Tools: -->
 
