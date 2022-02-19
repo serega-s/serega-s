@@ -83,6 +83,6 @@ Telegram: @sergei_here
 
 Follow me
 
-<img src="https://github-readme-stats.vercel.app/api?username=serega%2Ds&theme=dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=serega%2Ds&theme=tokyonight&show_icons=true">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serega%2Ds&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serega%2Ds&layout=compact&theme=radical)
