@@ -1,12 +1,10 @@
-<!-- ### Hi there  -->
-
 <h1>
-     Hi 👋! My name is Sergei Seliutin
+     🤘Hi! My name is Sergei Seliutin.
   </h1>
 <br/>
 🌱 I’m currently learning FullStack Web development
 <br />
-👯 I’m open for freelance projects
+👯 I’m open for freelance projects and now looking for a job.
 
 <br/>
 <h2>About me:</h2>
