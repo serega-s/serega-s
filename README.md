@@ -79,7 +79,7 @@ Telegram: @sergei_here
 <br/>
 <br/>
 
-Follow me
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=serega%2Ds&theme=tokyonight&show_icons=true">
 
