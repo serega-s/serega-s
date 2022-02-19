@@ -4,7 +4,7 @@
 <br/>
 🌱 I’m currently learning FullStack Web development
 <br />
-👯 I’m open for freelance projects and now looking for a job.
+👯 I’m open for freelance projects and currently looking for a job.
 
 <br/>
 <h2>About me:</h2>
@@ -81,6 +81,5 @@ Telegram: @sergei_here
 <h2>Github Stats:</h2>
 
 ![serega-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=serega%2Ds&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=serega%2Ds&theme=tokyonight&show_icons=true"> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serega%2Ds&layout=compact&theme=radical&langs_count=10)
