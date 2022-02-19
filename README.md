@@ -22,7 +22,6 @@ Telegram: @sergei_here
 
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=node.js">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass">
@@ -38,6 +37,7 @@ Telegram: @sergei_here
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=Celery">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=node.js">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-SqlAlchemy-090909?style=for-the-badge&logo=SqlAlchemy">
 
 <br />
