@@ -78,9 +78,9 @@ Telegram: @sergei_here
 
 <br/>
 <br/>
+<h2>Github Stats:</h2>
 
+![serega-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=serega%2Ds&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=serega%2Ds&theme=tokyonight&show_icons=true"> -->
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=serega%2Ds&theme=tokyonight&show_icons=true">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serega%2Ds&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serega%2Ds&layout=compact&theme=radical&langs_count=10)
