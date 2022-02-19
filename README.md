@@ -7,7 +7,7 @@
 👯 I’m open for freelance projects and currently looking for a job.
 
 <br/>
-<h2>About me:</h2>
+<h2>About Me:</h2>
 <h4>
 Hey folks, welcome to my GitHub repo! I'm a guy from a village who is going to move forward to becoming a self taught fullstack web developer. I love learning new technologies and practicing them. I have a lot of plans for future. If you are an experienced developer, I will be glad you to become my comrade so that time by time I could ask some questions if I wouldn't manage to figure out with a big problem.
 </h4>
@@ -16,7 +16,7 @@ Telegram: @sergei_here
 
 <br />
 <br />
-<h2>Tech stack:</h2>
+<h2>Tech Stack:</h2>
 
 <h3>Languages:</h3>
 
