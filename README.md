@@ -57,6 +57,7 @@ Telegram: @sergei_here
 <hr />
 
 <h3>Tools:</h3>
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Intellij Idea-090909?style=for-the-badge&logo=intellijidea">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Visual Studio Code-090909?style=for-the-badge&logo=visual%20studio%20code">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github">
