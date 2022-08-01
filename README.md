@@ -75,7 +75,7 @@ Telegram: @sergei_here
 
 <h3>Learning: </h3>
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-KaliLinux-090909?style=for-the-badge&logo=Kali Linux">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-KaliLinux-090909?style=for-the-badge&logo=Kali%20Linux">
 
 <br/>
 <br/>
