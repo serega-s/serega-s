@@ -37,20 +37,21 @@ Telegram: @sergei_here
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=Celery">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=node.js">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-SqlAlchemy-090909?style=for-the-badge&logo=SqlAlchemy">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker">
 
 <br />
 <hr />
 
 <h3>Front-end:</h3>
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-mobx-090909?style=for-the-badge&logo=Mobx">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=Vuex">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=TailwindCSS">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Bulma-090909?style=for-the-badge&logo=Bulma">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript">
 
 
 <br />
@@ -74,10 +75,7 @@ Telegram: @sergei_here
 
 <h3>Learning: </h3>
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI">
-<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS">
+<img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Kali-090909?style=for-the-badge&logo=Kali">
 
 <br/>
 <br/>
