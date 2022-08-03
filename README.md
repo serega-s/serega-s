@@ -39,6 +39,7 @@ Telegram: @sergei_here
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=node.js">
+<br />
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-SqlAlchemy-090909?style=for-the-badge&logo=SqlAlchemy">
 <img align="left" style="margin-right:15px" src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker">
 
